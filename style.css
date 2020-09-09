@@ -8,5 +8,10 @@ h1 {
     background-color: darkslategray;
     height: 400px;
     color: whitesmoke;
+    margin: auto;
 }
 
+.myname {
+    margin: auto;
+    width: 500px;
+}
